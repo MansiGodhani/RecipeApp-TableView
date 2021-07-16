@@ -1,2 +1,2 @@
-# RecipeApp---TableView
+# RecipeApp-TableView
 RecipeApp 
